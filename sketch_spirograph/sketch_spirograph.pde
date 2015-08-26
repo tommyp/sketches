@@ -15,7 +15,6 @@ void draw() {
   int x = 400;
   int y = 400;
   
-  //drawCircles(x, y);
   ellipse(x, y, mouseX, mouseY);
  
  while (i < 20) {
