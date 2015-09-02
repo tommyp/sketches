@@ -17,7 +17,7 @@ void draw() {
   
   ellipse(x, y, mouseX, mouseY);
  
- while (i < 20) {
+ while (i < 40) {
    drawCircles(x, y, i);
    i++;
  }
